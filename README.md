@@ -1,22 +1,26 @@
 ## Sturgeon detection:
 
-<div style="display: flex; flex-direction:row;">
-  <div style="flex: 1 1 0px; border: 1px solid black;">
-    <p><b>Faster RCNN:</b></p>
-    <img width="400" height="300" alt="" src="https://user-images.githubusercontent.com/59762084/172005850-a3360efd-17bb-48a6-b88a-fe1bb2139dfe.png">
-  </div>
-  <br>
-  <div style="flex: 1 1 0px; border: 1px solid black;">
-    <p><b>YOLOv5:</b></p>
-    <img width="400" height="300" alt="" src="https://user-images.githubusercontent.com/59762084/172005859-d76ca692-5930-44ca-aba3-25b9ec7e46c1.jpg">
-  </div>
-  <br>
-  <div style="flex: 1 1 0px; border: 1px solid black;">
-    <p><b>EfficientDet:</b></p>
-    <img width="400" height="300" alt="" src="https://user-images.githubusercontent.com/59762084/172005870-e4b8d461-52f1-4cce-ac05-5de5b89f3820.jpeg">
-  </div>
-</div>
+<br>
 
+<table>
+  <tr>
+    <td><b>Faster RCNN</b></td>
+    <td><b>YOLOv5</b></td>
+    <td><b>EfficientDet</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img width="300" height="200" alt="" src="https://user-images.githubusercontent.com/59762084/172005850-a3360efd-17bb-48a6-b88a-fe1bb2139dfe.png">
+    </td>
+    <td>
+      <img width="300" height="200" alt="" src="https://user-images.githubusercontent.com/59762084/172005859-d76ca692-5930-44ca-aba3-25b9ec7e46c1.jpg">
+    </td>
+    <td>
+      <img width="300" height="200" alt="" src="https://user-images.githubusercontent.com/59762084/172005870-e4b8d461-52f1-4cce-ac05-5de5b89f3820.jpeg">
+    </td>
+  </tr>
+ </table>
+ 
 <br><br>
 
 ## Comparison
