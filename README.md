@@ -12,7 +12,7 @@
   </div>
   <br>
   <div style="flex: 1 1 0px; border: 1px solid black;">
-    <p><b>EfficientDet:<b/></p>
+    <p><b>EfficientDet:</b></p>
     <img width="400" height="300" alt="" src="https://user-images.githubusercontent.com/59762084/172005870-e4b8d461-52f1-4cce-ac05-5de5b89f3820.jpeg">
   </div>
 </div>
